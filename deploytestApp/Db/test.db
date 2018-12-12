@@ -1,0 +1,4 @@
+record(longout, "$(P)Test-I")
+{
+    field(VAL, "5")
+}
